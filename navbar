@@ -1,0 +1,59 @@
+<---navbar and logo----->
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grand Getaway Rentals</title>
+    <script src="https://kit.fontawesome.com/bd567d19e6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="homepagestyle.css"/>
+
+    <link rel="icon" type="image/x-icon" href="">
+  
+    <style>
+      .h2{
+        align-items: center;
+        in
+      }
+      *{
+          box-sizing:border-box;
+      }
+      .column{
+          float:left;
+      
+          width:33%;
+          padding:5px;
+      }
+      .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .form{
+    color:bisque
+  }
+
+  .section{
+    color: aquamarine;
+  }
+  </style>
+
+</head>
+<body>
+  <nav>
+    <nav class="navbar">
+    <nav class="logo">
+      
+    <div class="row__posters">
+      <img class="img"  src="1.jpg" alt="" class="row__poster " />
+    </nav>
+
+                   
+      <li><a href="#">Other sections</a></li>
+      <li><a href="#">About Us</a></li>
+      <li><a href="#">Contact</a></li>
+
+      
+    </nav>
+  </lable>
